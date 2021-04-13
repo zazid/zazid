@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @zazid
-- 👀 I’m interested in ...
+- 👀 I’m interested in Data Engineer, Design, Networking
 - 🌱 I’m currently learning Docker, Go
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on ig @zazid_ar
+- 📫 How to reach me on ...
 
 <!---
 zazid/zazid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
